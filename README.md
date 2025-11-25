@@ -6,3 +6,4 @@ This study introduces EM²LDL, a novel multilingual speech corpus designed to ad
 The EM²LDL corpus contains a total of 3,998 audio utterances, amounting to 14,540.08 seconds of speech (approximately 4.04 hours). The average duration per utterance is 3.64 seconds, reflecting the concise yet emotionally expressive nature of the collected segments. The corpus captures intra-utterance code-switching across three language pairs: Cantonese-English (CE), Mandarin-English (ME), and Mandarin-Cantonese (MC). 
 
 Each utterance in the EM²LDL corpus is annotated with a probability distribution over 32 emotion categories derived from 20-rater annotations based on Plutchik’s Emotion Wheel. On average, each utterance is associated with 9.25 emotion labels (standard deviation: 1.65), with a maximum of 16 and a minimum of 4 labels, reflecting the complexity of mixed emotional states.
+![MacauDB Overview](https://github.com/xingfengli/EM2LDL/blob/main/figs/githubMacauDB.png)
