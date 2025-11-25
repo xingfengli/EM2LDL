@@ -11,3 +11,4 @@ Each utterance in the EM²LDL corpus is annotated with a probability distributio
 # Citation
 
 # Access to the EM²LDL Corpus
+Please download the User License Agreement (LA.pdf), complete the agreement and return it to Dr. Xingfeng Li, xfli@cityu.edu.mo. Once the signed agreement is received and approved, you will receive instructions to download the database.
