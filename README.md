@@ -9,6 +9,14 @@ Each utterance in the EM²LDL corpus is annotated with a probability distributio
 ![MacauDB Overview](https://github.com/xingfengli/EM2LDL/blob/main/figs/githubMacauDB.png)
 
 # Citation
-
+@misc{li2025em2ldlmultilingualspeechcorpus,
+      title={EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning}, 
+      author={Xingfeng Li and Xiaohan Shi and Junjie Li and Yongwei Li and Masashi Unoki and Tomoki Toda and Masato Akagi},
+      year={2025},
+      eprint={2511.20106},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.20106}, 
+}
 # Access to the EM²LDL Corpus
 Please download the User License Agreement (LA.pdf), complete the agreement and return it to Dr. Xingfeng Li, xfli@cityu.edu.mo. Once the signed agreement is received and approved, you will receive instructions to download the database.
