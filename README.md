@@ -10,12 +10,19 @@ Each utterance in the EM²LDL corpus is annotated with a probability distributio
 
 # Citation
 @misc{li2025em2ldlmultilingualspeechcorpus,
+
       title={EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning}, 
+      
       author={Xingfeng Li and Xiaohan Shi and Junjie Li and Yongwei Li and Masashi Unoki and Tomoki Toda and Masato Akagi},
+      
       year={2025},
+      
       eprint={2511.20106},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.CL},
+      
       url={https://arxiv.org/abs/2511.20106}, 
 }
 # Access to the EM²LDL Corpus
